@@ -178,6 +178,9 @@ i {
 .toasts{
   margin-left: 65%;
 }
+.right{
+  margin-left:70%;
+}
 @media screen and (max-width:768px) {
   .right{
     margin-left: 54%;
