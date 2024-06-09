@@ -6,7 +6,7 @@
   - Tutorial dialogues for scaﬀolding problem solving.
 
 TECH STACK :
-HTML, CSS, BOOTSTRAP, JS, FLASK
+HTML, CSS, BOOTSTRAP, JS, FLASK.
 
 Walkthrough of the Project :
 This is the home page of our application.
